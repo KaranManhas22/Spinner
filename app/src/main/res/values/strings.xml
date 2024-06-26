@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Spinner</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="add">ADD</string>
+    <string name="market_minder">Market Minder</string>
+    <string-array name="Gender">
+        <item name ="Male">Male</item>
+      <item name="Female">Female</item>
+      <item name="others">others</item>
+  </string-array>
+    <string-array name="Names">
+        <item name="Karan">Karan</item>
+        <item name="Harsh">Harsh</item>
+        <item name="Harman">Harman</item>
+    </string-array>
+    
+
+</resources>
