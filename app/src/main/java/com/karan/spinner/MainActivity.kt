@@ -77,7 +77,7 @@ class MainActivity : AppCompatActivity() {
             }
         binding.btnfloating.setOnClickListener {
 
-            var dialogBinding = CustomDialogboxSpinnerBinding.inflate(layoutInflater)
+            val dialogBinding = CustomDialogboxSpinnerBinding.inflate(layoutInflater)
             val dialog = Dialog(this).apply {
                 setContentView(dialogBinding.root)
                 window?.setLayout(
